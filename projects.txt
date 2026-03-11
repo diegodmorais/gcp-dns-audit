@@ -1,0 +1,8 @@
+prj-poc-uello-01
+uello-renner
+prj-prd-uello-01
+prj-dev-uello-infra-01
+prj-prd-network-01
+uello-bat-chile
+uello-162923
+api-project-1097481042879
