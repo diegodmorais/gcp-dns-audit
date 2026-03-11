@@ -19,11 +19,3 @@ python dns_audit.py projects.txt
 
 - Python 3
 - gcloud CLI autenticado
-
-## Depois commit:
-
-```bash
-git add .
-git commit -m "Add README and requirements"
-git push
-```
